@@ -1,0 +1,20 @@
+{
+    "name": "code-snippets",
+    "displayName": "code snippets",
+    "description": "Java JavaScript TypeScript Dart Snippets",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
